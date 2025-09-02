@@ -8,3 +8,8 @@ This is the trial to edit the MD file via github, which is a part of CMU 14848 -
 s = "Hello, I'm Ying!"
 ```
 
+###### A Todo list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
